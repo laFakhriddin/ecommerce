@@ -1,2 +1,4 @@
-# YT_Django_Project_Ecommerce_v1_Part1
+Стажировка
+Надо закончить до 15.12.2021
  
+Python\django\bootstrap
